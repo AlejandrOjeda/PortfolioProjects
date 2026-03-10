@@ -12,12 +12,12 @@
 #define DEVICE "ESP32"
 
 // Credenciales WiFi
-#define WIFI_SSID "Livebox6-7970"
-#define WIFI_PASSWORD "2rg9QbN43UDW"
+#define WIFI_SSID "your_wifi"
+#define WIFI_PASSWORD "your_password"
 
 // Parámetros para InfluxDB Cloud
 #define INFLUXDB_URL "https://us-east-1-1.aws.cloud2.influxdata.com"
-#define INFLUXDB_TOKEN "ahVqa1p5hpdgMhZ6DhXjywEf4nD1oUXH-NNc_dr1XQRDkdElEhouZdMn4uQm5GThLw3P9HStEx_4CnTD3qIUJA=="
+#define INFLUXDB_TOKEN "your_token"
 #define INFLUXDB_ORG "946d01148ddbf751"
 #define INFLUXDB_BUCKET "Ambiental"
 #define TZ_INFO "CET-1CEST,M3.5.0/2,M10.5.0/3"
